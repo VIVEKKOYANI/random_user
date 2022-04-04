@@ -1,6 +1,7 @@
 # react-random-user-generator
 
-Running on Server:
+Running on Server :
+
 [https://randomusergetdata.herokuapp.com/](https://randomusergetdata.herokuapp.com/)
 
 Running Locally in your System:
